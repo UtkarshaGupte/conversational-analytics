@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
 import sqlite3
-# import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 
 # Function to connect to the SQLite database
-@st.cache
+@st.cache_data
 def get_connection():
     return sqlite3.connect('example.db')
 
@@ -17,36 +17,73 @@ def run_query(query):
 
 # Main function for the Streamlit app
 def main():
-    # Title of the application
-    st.title('Text to SQL Query Converter')
+    # Set the page configuration
+    st.set_page_config(page_title="Text to SQL Query Converter", page_icon=":sparkles:", layout="wide")
 
-    # Text input for user query
-    user_query = st.text_area("Enter your text query", "Type your query here...")
+    # Define the color scheme
+    primary_color = "#FF7A59"  # Cloudflare orange
+    secondary_color = "#333333"  # Dark gray
 
-    # Button to execute the query
-    if st.button('Run Query'):
-        # Placeholder to handle basic natural language to SQL conversion
-        # For example purposes, assuming user types SQL directly
-        # A proper NLP model or parsing mechanism is required here for actual text to SQL
-        try:
-            # Run the user query
-            data = run_query(user_query)
-            # Display data as a table
-            st.write("### Query Results", data)
-            
-            # Display data graphically
-            st.write("### Graphical Representation")
-            # fig, ax = plt.subplots()
-            if len(data.columns) == 2:  # simple case for one independent variable and one dependent variable
-                ax.plot(data.iloc[:, 0], data.iloc[:, 1])
-                ax.set_xlabel(data.columns[0])
-                ax.set_ylabel(data.columns[1])
-                ax.set_title('Line Plot')
-            else:
-                st.write("Graphical representation not available for more than 2 columns.")
-            st.pyplot(fig)
-        except Exception as e:
-            st.error(f"An error occurred: {e}")
+    # Apply the color scheme
+    st.markdown(
+        f"""
+        <style>
+            .stApp {{
+                background-color: {secondary_color};
+                color: #FFFFFF;
+            }}
+            .stTextArea > label {{
+                color: {primary_color};
+            }}
+            .stButton > button {{
+                background-color: {primary_color};
+                color: #FFFFFF;
+            }}
+            .stMarkdown h1 {{
+                color: {primary_color};
+            }}
+            .stMarkdown h2 {{
+                color: {primary_color};
+            }}
+            .stMarkdown h3 {{
+                color: {primary_color};
+            }}
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    # Create two columns
+    col1, col2 = st.columns([1, 4])
+
+    # Chat history panel in the first column
+    with col1:
+        st.markdown("### Chat History")
+        chat_history = []  # Initialize an empty list to store chat history
+
+        # Function to add a new message to the chat history
+        def add_message(role, content):
+            chat_history.append({"role": role, "content": content})
+            for chat in chat_history:
+                st.markdown(f"**{chat['role']}:** {chat['content']}")
+
+        # Add a dummy message to the chat history
+        add_message("User", "Type your query here...")
+
+    # Main app content in the second column
+    with col2:
+        st.title('Text to SQL Query Converter')
+        user_query = st.text_area("Enter your text query")
+
+        if st.button('Run Query'):
+            try:
+                data = "Hi"
+                st.write("### Query Results", data)
+                # Add the user query and response to the chat history
+                add_message("User", user_query)
+                add_message("Assistant", str(data))
+            except Exception as e:
+                st.error(f"An error occurred: {e}")
 
 # Run the main function
 if __name__ == "__main__":
