@@ -1,0 +1,1001 @@
+Cost center number,Cost center name,Region,Cost category,timestamp,currency code,amount
+5262,Research & Development,North America,Professional Services,2023-08-02 22:23:05,SGD,685570
+6058,Sales Operations,Asia Pacific,Salaries,2023-08-01 21:21:21,ARS,879379
+3054,Finance,North America,Travel,2023-08-01 02:10:50,JPY,127256
+5537,Marketing Operations,Europe,Salaries,2023-08-01 04:40:22,USD,405586
+6402,Research & Development,North America,Benefits,2023-08-01 18:18:18,ARS,539278
+4304,Human Resources,North America,Software,2023-08-01 17:00:45,EUR,225653
+7103,Marketing Operations,South America,Software,2023-08-03 17:48:29,USD,444770
+1033,IT Infrastructure,North America,Salaries,2023-08-01 18:06:24,EUR,329338
+8450,Sales Operations,Asia Pacific,Advertising,2023-08-03 12:49:32,JPY,50508
+7896,Human Resources,North America,Salaries,2023-08-01 03:40:48,EUR,670684
+1074,Sales Operations,South America,Hardware,2023-08-03 18:29:50,USD,51911
+6871,IT Infrastructure,Europe,Hardware,2023-08-02 14:55:02,ARS,767953
+8956,Finance,North America,Supplies,2023-08-03 17:56:32,ARS,243361
+6940,Research & Development,South America,Hardware,2023-08-03 21:06:01,BRL,492700
+5205,Sales Operations,Asia Pacific,Hardware,2023-08-02 07:08:37,SGD,717290
+5543,Research & Development,North America,Advertising,2023-08-01 23:27:28,GBP,200810
+2163,Sales Operations,South America,Commissions,2023-08-01 03:46:11,JPY,145628
+7829,Sales Operations,Europe,Salaries,2023-08-02 14:38:27,BRL,516323
+5392,Marketing Operations,North America,Supplies,2023-08-02 06:46:33,ARS,352428
+6821,IT Infrastructure,North America,Salaries,2023-08-01 12:31:12,USD,267766
+8704,Finance,Asia Pacific,Commissions,2023-08-02 08:39:53,GBP,108242
+5971,Sales Operations,South America,Benefits,2023-08-02 00:28:58,ARS,878763
+9011,Human Resources,North America,Supplies,2023-08-03 09:00:52,JPY,199138
+5922,Human Resources,Europe,Advertising,2023-08-01 10:27:22,USD,519300
+8302,Sales Operations,Asia Pacific,Benefits,2023-08-02 03:20:44,USD,534539
+5076,Marketing Operations,Europe,Supplies,2023-08-02 19:35:24,USD,255416
+6831,Finance,Asia Pacific,Software,2023-08-03 18:27:24,GBP,325493
+5956,Marketing Operations,Asia Pacific,Professional Services,2023-08-02 01:58:28,ARS,260704
+1519,Finance,Europe,Software,2023-08-01 20:56:12,SGD,673993
+8660,IT Infrastructure,South America,Benefits,2023-08-01 16:12:20,ARS,217695
+3725,Finance,South America,Travel,2023-08-01 10:48:43,SGD,667620
+1297,IT Infrastructure,North America,Travel,2023-08-01 23:40:20,GBP,607523
+7876,Sales Operations,South America,Commissions,2023-08-02 01:53:45,ARS,823251
+7500,IT Infrastructure,Europe,Hardware,2023-08-02 17:16:27,SGD,643290
+9941,Sales Operations,North America,Professional Services,2023-08-02 20:00:27,GBP,539831
+1510,Sales Operations,Europe,Software,2023-08-03 01:20:06,ARS,845932
+3346,Finance,South America,Travel,2023-08-03 03:30:53,BRL,664079
+2622,Research & Development,South America,Hardware,2023-08-03 16:27:54,ARS,266365
+9841,Marketing Operations,Asia Pacific,Supplies,2023-08-01 19:20:50,ARS,477186
+7571,Sales Operations,Asia Pacific,Advertising,2023-08-03 22:08:37,SGD,38685
+2214,Marketing Operations,South America,Supplies,2023-08-02 05:30:02,GBP,218041
+6256,Human Resources,Asia Pacific,Salaries,2023-08-02 14:17:47,EUR,393592
+7717,IT Infrastructure,North America,Supplies,2023-08-01 12:36:15,GBP,769499
+8646,Human Resources,Europe,Advertising,2023-08-01 12:13:24,JPY,425983
+8848,Finance,Europe,Salaries,2023-08-02 09:03:05,EUR,446256
+4889,Marketing Operations,South America,Travel,2023-08-02 15:04:30,USD,988303
+2854,IT Infrastructure,Asia Pacific,Travel,2023-08-03 09:53:24,GBP,406543
+8689,IT Infrastructure,South America,Software,2023-08-01 01:29:58,USD,946871
+3912,IT Infrastructure,South America,Hardware,2023-08-03 07:16:48,JPY,242365
+8755,Finance,Europe,Hardware,2023-08-02 02:40:35,GBP,615403
+7269,Sales Operations,North America,Professional Services,2023-08-03 15:29:29,GBP,331072
+7411,Human Resources,Europe,Hardware,2023-08-02 21:37:53,GBP,345668
+3527,Sales Operations,Europe,Supplies,2023-08-01 21:21:26,EUR,62252
+8272,IT Infrastructure,North America,Supplies,2023-08-02 03:31:53,JPY,696571
+9076,Human Resources,South America,Advertising,2023-08-03 05:00:15,BRL,125077
+6650,Marketing Operations,Asia Pacific,Software,2023-08-02 04:37:19,BRL,816696
+9432,Human Resources,North America,Salaries,2023-08-01 18:13:41,ARS,534243
+7477,IT Infrastructure,Asia Pacific,Software,2023-08-01 16:55:10,JPY,635591
+1886,Marketing Operations,Asia Pacific,Professional Services,2023-08-01 23:35:24,GBP,150356
+5474,Human Resources,North America,Advertising,2023-08-03 19:54:37,EUR,320440
+1415,Finance,Asia Pacific,Advertising,2023-08-01 15:45:47,SGD,357533
+8936,IT Infrastructure,Asia Pacific,Software,2023-08-02 02:00:16,ARS,561641
+7254,Sales Operations,North America,Salaries,2023-08-03 00:06:51,EUR,950638
+4841,Marketing Operations,Asia Pacific,Benefits,2023-08-03 05:01:52,ARS,53952
+2197,Finance,Asia Pacific,Salaries,2023-08-02 07:02:08,EUR,630660
+6131,Human Resources,Europe,Software,2023-08-01 01:10:00,BRL,471589
+7580,Finance,North America,Advertising,2023-08-02 22:22:47,SGD,914033
+9009,IT Infrastructure,South America,Hardware,2023-08-03 16:57:26,ARS,130264
+6291,Finance,North America,Supplies,2023-08-02 02:19:01,GBP,224949
+9755,Marketing Operations,Europe,Travel,2023-08-02 05:24:02,ARS,618325
+3693,Finance,Asia Pacific,Travel,2023-08-03 08:07:04,SGD,953994
+1433,Finance,North America,Travel,2023-08-01 14:27:37,ARS,884396
+9350,IT Infrastructure,North America,Commissions,2023-08-01 21:49:35,USD,835158
+7225,Research & Development,North America,Software,2023-08-02 10:50:16,JPY,655733
+7973,Sales Operations,North America,Hardware,2023-08-01 01:38:54,SGD,226998
+9989,Sales Operations,North America,Benefits,2023-08-02 05:13:05,JPY,907157
+9003,Human Resources,North America,Benefits,2023-08-03 20:35:03,ARS,998229
+1118,Research & Development,Europe,Software,2023-08-01 01:37:41,SGD,107229
+2752,Finance,Europe,Hardware,2023-08-02 08:58:27,JPY,135006
+6670,IT Infrastructure,South America,Benefits,2023-08-02 21:00:41,USD,156822
+6847,Human Resources,Asia Pacific,Professional Services,2023-08-02 08:57:40,ARS,149345
+2272,Finance,Asia Pacific,Software,2023-08-01 17:25:47,USD,9474
+6406,Finance,North America,Benefits,2023-08-01 21:38:41,EUR,234511
+6003,Marketing Operations,North America,Salaries,2023-08-03 13:29:56,SGD,98896
+2238,Finance,Europe,Commissions,2023-08-01 04:36:18,JPY,451735
+1059,IT Infrastructure,Europe,Salaries,2023-08-02 12:23:22,ARS,318535
+3935,IT Infrastructure,North America,Salaries,2023-08-03 05:36:53,ARS,596813
+4476,Sales Operations,Europe,Benefits,2023-08-03 04:02:44,GBP,510020
+3075,Human Resources,South America,Commissions,2023-08-03 03:54:51,GBP,122070
+6473,Human Resources,South America,Advertising,2023-08-02 22:32:59,ARS,907685
+9532,Marketing Operations,Asia Pacific,Benefits,2023-08-03 09:15:05,USD,822061
+5607,IT Infrastructure,Asia Pacific,Supplies,2023-08-02 22:01:19,USD,988005
+7394,Research & Development,North America,Professional Services,2023-08-03 22:04:41,SGD,40160
+2592,Sales Operations,Asia Pacific,Advertising,2023-08-01 17:45:59,BRL,594572
+1186,Human Resources,Asia Pacific,Supplies,2023-08-01 12:54:45,EUR,912556
+7551,Human Resources,Europe,Benefits,2023-08-03 01:32:42,ARS,675879
+7420,Sales Operations,Europe,Hardware,2023-08-02 15:17:58,ARS,774732
+3267,Sales Operations,North America,Commissions,2023-08-01 19:53:58,ARS,339934
+2009,Marketing Operations,Europe,Benefits,2023-08-02 08:50:37,SGD,488331
+3994,Research & Development,Europe,Commissions,2023-08-01 21:50:19,ARS,440609
+9770,IT Infrastructure,North America,Advertising,2023-08-02 03:13:03,GBP,346628
+8532,Marketing Operations,North America,Travel,2023-08-01 03:18:07,SGD,734617
+2826,Research & Development,Europe,Commissions,2023-08-02 13:43:09,BRL,973015
+2683,Finance,Europe,Supplies,2023-08-01 10:01:16,JPY,760776
+9992,IT Infrastructure,North America,Supplies,2023-08-03 08:12:06,BRL,775763
+9527,Human Resources,Asia Pacific,Benefits,2023-08-03 11:48:45,GBP,500781
+3261,IT Infrastructure,South America,Advertising,2023-08-02 14:44:51,JPY,880733
+4162,Sales Operations,North America,Software,2023-08-02 22:14:25,EUR,829537
+9515,Sales Operations,North America,Benefits,2023-08-02 10:17:51,SGD,432646
+4548,Marketing Operations,North America,Travel,2023-08-01 17:34:05,GBP,214080
+8495,Finance,South America,Travel,2023-08-01 20:31:54,SGD,294099
+8518,Sales Operations,Europe,Supplies,2023-08-03 23:10:11,JPY,583475
+6922,Finance,Europe,Benefits,2023-08-02 10:20:05,EUR,724020
+6731,Research & Development,North America,Hardware,2023-08-02 17:42:17,ARS,157580
+7367,Sales Operations,Asia Pacific,Hardware,2023-08-03 18:56:36,BRL,99737
+7381,Human Resources,North America,Travel,2023-08-02 10:29:07,EUR,400686
+2524,Marketing Operations,Europe,Supplies,2023-08-03 10:11:47,BRL,256744
+1856,Sales Operations,South America,Professional Services,2023-08-02 00:32:36,SGD,196478
+4736,Research & Development,South America,Software,2023-08-03 23:05:15,GBP,808178
+3104,Research & Development,Europe,Commissions,2023-08-02 17:48:06,SGD,646745
+3857,Research & Development,Asia Pacific,Advertising,2023-08-02 20:38:11,GBP,811896
+6357,Sales Operations,Europe,Salaries,2023-08-01 08:09:31,JPY,51070
+6277,Marketing Operations,South America,Commissions,2023-08-02 19:27:33,ARS,333270
+5505,Sales Operations,South America,Travel,2023-08-01 13:40:28,EUR,627663
+9474,Human Resources,South America,Professional Services,2023-08-02 13:08:41,ARS,137670
+7183,IT Infrastructure,Asia Pacific,Professional Services,2023-08-01 16:42:46,SGD,341169
+6763,Sales Operations,Asia Pacific,Software,2023-08-02 21:52:27,ARS,886712
+6089,Research & Development,South America,Commissions,2023-08-03 23:24:16,SGD,430599
+7850,Sales Operations,South America,Hardware,2023-08-02 00:30:14,EUR,850664
+3878,Research & Development,South America,Benefits,2023-08-01 03:59:33,JPY,292370
+5129,IT Infrastructure,Europe,Benefits,2023-08-03 16:59:54,ARS,711248
+2340,IT Infrastructure,Europe,Supplies,2023-08-02 13:49:09,GBP,449828
+3840,IT Infrastructure,Asia Pacific,Professional Services,2023-08-02 07:07:00,USD,257701
+4895,Research & Development,Europe,Commissions,2023-08-02 05:34:31,BRL,385863
+3885,Research & Development,North America,Hardware,2023-08-01 16:19:01,USD,53089
+1472,Research & Development,South America,Professional Services,2023-08-02 14:14:03,GBP,839844
+6650,Marketing Operations,Europe,Hardware,2023-08-02 22:43:59,EUR,468942
+6811,Sales Operations,Europe,Travel,2023-08-03 09:05:54,ARS,84217
+6804,Marketing Operations,North America,Supplies,2023-08-02 09:50:56,ARS,247319
+1866,Research & Development,North America,Commissions,2023-08-01 06:25:14,SGD,945438
+5297,Human Resources,Europe,Hardware,2023-08-02 07:21:50,SGD,521007
+2400,Marketing Operations,Asia Pacific,Professional Services,2023-08-02 12:16:50,ARS,367995
+9506,IT Infrastructure,Asia Pacific,Hardware,2023-08-01 22:29:53,ARS,873293
+4471,IT Infrastructure,Europe,Commissions,2023-08-01 13:21:27,GBP,979702
+8517,Sales Operations,South America,Commissions,2023-08-03 00:23:25,EUR,206509
+8706,Marketing Operations,Europe,Professional Services,2023-08-01 11:03:10,BRL,312201
+2708,Finance,Europe,Hardware,2023-08-01 20:23:08,BRL,949262
+4033,IT Infrastructure,Asia Pacific,Software,2023-08-03 07:05:20,SGD,346672
+7172,Research & Development,Europe,Travel,2023-08-02 18:10:19,BRL,938871
+3828,Sales Operations,Europe,Salaries,2023-08-01 13:52:28,EUR,127437
+5151,Marketing Operations,South America,Commissions,2023-08-03 02:23:32,USD,818202
+7003,Sales Operations,North America,Supplies,2023-08-01 04:04:25,BRL,412558
+7215,Sales Operations,Europe,Commissions,2023-08-01 15:38:11,SGD,427929
+6267,Finance,North America,Professional Services,2023-08-03 22:56:15,EUR,540728
+9210,Human Resources,Europe,Benefits,2023-08-03 01:17:52,EUR,95297
+5151,Marketing Operations,Europe,Hardware,2023-08-02 08:04:58,JPY,156035
+4690,Research & Development,Europe,Professional Services,2023-08-02 21:56:46,USD,971093
+2224,Finance,Europe,Hardware,2023-08-03 05:39:22,BRL,456390
+9401,Human Resources,South America,Software,2023-08-01 02:31:57,EUR,246844
+5510,IT Infrastructure,Asia Pacific,Commissions,2023-08-02 06:23:50,JPY,217744
+5464,Sales Operations,Europe,Professional Services,2023-08-02 08:48:26,EUR,537352
+6361,Research & Development,Europe,Benefits,2023-08-02 02:54:55,GBP,507498
+6758,Human Resources,Europe,Software,2023-08-02 10:36:34,JPY,177371
+6863,IT Infrastructure,North America,Travel,2023-08-02 11:30:56,GBP,995468
+4800,Marketing Operations,Asia Pacific,Benefits,2023-08-01 06:07:27,SGD,193252
+5058,IT Infrastructure,North America,Hardware,2023-08-03 18:02:43,BRL,63626
+6765,Research & Development,Asia Pacific,Commissions,2023-08-03 09:52:21,ARS,21698
+9774,Human Resources,North America,Hardware,2023-08-02 11:04:34,ARS,135390
+2331,Human Resources,South America,Supplies,2023-08-02 09:44:14,USD,357290
+5746,Marketing Operations,Europe,Supplies,2023-08-01 08:37:05,JPY,80251
+5910,Marketing Operations,North America,Advertising,2023-08-01 21:24:44,EUR,833414
+2387,Sales Operations,South America,Supplies,2023-08-02 13:47:06,SGD,225675
+5655,Finance,Asia Pacific,Salaries,2023-08-01 03:52:48,ARS,939492
+2931,Marketing Operations,Europe,Salaries,2023-08-03 18:50:45,JPY,211100
+9224,Human Resources,Asia Pacific,Travel,2023-08-01 14:35:56,SGD,58655
+5425,Sales Operations,Europe,Software,2023-08-02 05:38:13,SGD,687700
+7570,Sales Operations,Asia Pacific,Supplies,2023-08-02 06:35:09,ARS,213592
+5153,Research & Development,South America,Software,2023-08-03 12:08:50,SGD,616605
+9834,Finance,South America,Commissions,2023-08-01 10:33:32,BRL,761397
+6579,Sales Operations,South America,Commissions,2023-08-01 07:18:09,USD,526210
+8022,Human Resources,Asia Pacific,Advertising,2023-08-01 20:44:15,USD,827810
+4363,Human Resources,Europe,Commissions,2023-08-01 08:31:32,GBP,454821
+4355,Finance,Europe,Benefits,2023-08-02 14:02:52,JPY,620807
+8075,Sales Operations,South America,Salaries,2023-08-03 09:37:54,EUR,870659
+9845,Human Resources,Europe,Travel,2023-08-02 02:06:41,JPY,880038
+2745,Research & Development,North America,Hardware,2023-08-03 03:25:07,EUR,137373
+5854,Sales Operations,Europe,Commissions,2023-08-01 13:24:31,USD,867981
+7575,Human Resources,South America,Advertising,2023-08-01 04:11:37,GBP,549304
+4197,Sales Operations,South America,Hardware,2023-08-03 18:57:43,USD,56398
+5278,Research & Development,Europe,Hardware,2023-08-03 17:13:55,EUR,57201
+2803,IT Infrastructure,Europe,Benefits,2023-08-03 05:16:06,USD,698288
+4851,Sales Operations,North America,Salaries,2023-08-03 16:11:38,GBP,838347
+6976,IT Infrastructure,Asia Pacific,Advertising,2023-08-03 09:01:38,GBP,725711
+8167,Sales Operations,North America,Professional Services,2023-08-02 04:13:12,JPY,72616
+9167,Human Resources,Europe,Salaries,2023-08-03 02:50:11,USD,130718
+5999,IT Infrastructure,North America,Salaries,2023-08-03 00:26:03,ARS,160610
+3032,IT Infrastructure,Asia Pacific,Supplies,2023-08-01 08:46:09,SGD,800216
+8223,IT Infrastructure,Europe,Professional Services,2023-08-02 20:47:23,SGD,533632
+6442,Human Resources,Europe,Commissions,2023-08-03 00:34:05,GBP,823287
+1241,Finance,North America,Software,2023-08-03 18:31:52,USD,463077
+7256,Human Resources,Europe,Software,2023-08-03 22:56:39,ARS,921573
+8850,Finance,Asia Pacific,Software,2023-08-01 07:20:24,BRL,54759
+8872,Research & Development,Asia Pacific,Travel,2023-08-03 08:40:13,SGD,651861
+7903,Marketing Operations,South America,Advertising,2023-08-02 01:11:10,USD,872559
+4323,Marketing Operations,Asia Pacific,Professional Services,2023-08-01 02:07:56,JPY,429437
+7516,IT Infrastructure,North America,Benefits,2023-08-02 17:15:15,BRL,671489
+3909,Finance,North America,Advertising,2023-08-03 01:18:00,USD,365054
+4608,Marketing Operations,Asia Pacific,Software,2023-08-02 03:07:09,USD,323017
+5095,IT Infrastructure,North America,Advertising,2023-08-03 18:22:41,USD,471300
+8218,Research & Development,North America,Software,2023-08-01 02:19:38,USD,349338
+3800,Research & Development,Asia Pacific,Hardware,2023-08-02 06:38:25,BRL,25502
+7207,Finance,Asia Pacific,Professional Services,2023-08-01 20:32:02,JPY,751620
+8171,Marketing Operations,North America,Travel,2023-08-03 14:23:04,ARS,93351
+5306,Sales Operations,Asia Pacific,Advertising,2023-08-01 12:22:36,ARS,865068
+5435,Research & Development,Europe,Professional Services,2023-08-02 13:13:38,USD,366340
+2393,Marketing Operations,Asia Pacific,Professional Services,2023-08-03 12:27:03,SGD,161856
+8611,Finance,Asia Pacific,Travel,2023-08-03 04:52:10,EUR,309598
+5254,IT Infrastructure,North America,Software,2023-08-01 18:13:47,ARS,639699
+7212,Marketing Operations,Asia Pacific,Hardware,2023-08-03 04:12:10,EUR,277883
+4618,Research & Development,South America,Professional Services,2023-08-01 02:58:52,SGD,580698
+3240,Human Resources,South America,Travel,2023-08-02 07:45:14,JPY,519916
+4923,Finance,South America,Supplies,2023-08-01 08:30:03,SGD,306767
+5721,IT Infrastructure,South America,Advertising,2023-08-02 15:05:33,BRL,941109
+9870,IT Infrastructure,South America,Software,2023-08-01 10:51:29,EUR,107005
+1149,Marketing Operations,Asia Pacific,Supplies,2023-08-02 04:46:24,JPY,394245
+4196,Sales Operations,Europe,Hardware,2023-08-02 23:23:13,ARS,424507
+8255,Sales Operations,Asia Pacific,Hardware,2023-08-02 11:02:03,GBP,626510
+9065,IT Infrastructure,Asia Pacific,Software,2023-08-01 12:39:39,SGD,872271
+8123,Human Resources,North America,Travel,2023-08-01 10:04:28,GBP,63361
+1254,Finance,Asia Pacific,Travel,2023-08-02 12:27:07,SGD,701832
+9908,Finance,South America,Salaries,2023-08-02 21:58:23,EUR,790032
+6352,IT Infrastructure,Asia Pacific,Software,2023-08-02 13:07:27,GBP,7959
+1225,Finance,Europe,Software,2023-08-02 05:48:46,SGD,416633
+7325,IT Infrastructure,North America,Salaries,2023-08-01 12:16:35,BRL,135009
+3128,Finance,Europe,Travel,2023-08-02 06:38:06,GBP,551709
+4689,Research & Development,North America,Advertising,2023-08-03 06:16:41,SGD,452071
+6496,Sales Operations,Europe,Supplies,2023-08-02 18:51:48,USD,265676
+7726,Research & Development,Europe,Travel,2023-08-01 15:44:15,EUR,412534
+5846,IT Infrastructure,Asia Pacific,Professional Services,2023-08-03 10:16:51,USD,592728
+8328,Marketing Operations,South America,Benefits,2023-08-02 14:38:01,BRL,174435
+7594,Finance,Europe,Professional Services,2023-08-03 00:57:08,JPY,480445
+4339,Sales Operations,South America,Hardware,2023-08-01 09:25:48,ARS,61438
+5359,Finance,South America,Advertising,2023-08-01 15:29:39,ARS,88025
+9743,Human Resources,North America,Supplies,2023-08-03 10:59:15,JPY,320434
+6683,Finance,North America,Supplies,2023-08-03 11:00:46,BRL,170672
+1118,Marketing Operations,South America,Software,2023-08-03 20:52:56,JPY,523023
+3101,Finance,South America,Benefits,2023-08-01 14:20:52,JPY,241811
+3799,Finance,North America,Hardware,2023-08-01 10:37:53,BRL,204093
+2234,Finance,North America,Software,2023-08-02 07:53:47,SGD,761092
+9511,IT Infrastructure,South America,Professional Services,2023-08-03 10:57:36,USD,420738
+2949,Marketing Operations,Europe,Advertising,2023-08-02 02:38:05,SGD,50340
+3203,Finance,Asia Pacific,Travel,2023-08-03 03:26:15,BRL,328319
+1082,IT Infrastructure,Asia Pacific,Commissions,2023-08-03 11:56:53,GBP,397635
+8578,Research & Development,Asia Pacific,Salaries,2023-08-01 23:25:16,GBP,486788
+9981,Research & Development,Asia Pacific,Software,2023-08-01 00:39:27,SGD,602270
+2605,IT Infrastructure,Asia Pacific,Professional Services,2023-08-01 04:11:34,ARS,74072
+8183,IT Infrastructure,Europe,Software,2023-08-03 23:25:14,ARS,602167
+4655,Sales Operations,South America,Benefits,2023-08-03 20:27:08,ARS,808134
+4888,IT Infrastructure,North America,Benefits,2023-08-03 16:29:26,SGD,548638
+5531,Sales Operations,Asia Pacific,Hardware,2023-08-01 03:37:57,GBP,920962
+2126,IT Infrastructure,Asia Pacific,Benefits,2023-08-02 20:23:02,JPY,864527
+5280,Sales Operations,South America,Supplies,2023-08-02 07:23:03,JPY,817850
+2760,IT Infrastructure,North America,Benefits,2023-08-02 02:46:06,GBP,627521
+9803,Sales Operations,South America,Supplies,2023-08-01 05:20:30,BRL,313638
+9834,Marketing Operations,Europe,Supplies,2023-08-01 16:08:16,USD,580553
+2483,Sales Operations,South America,Professional Services,2023-08-01 13:41:40,JPY,541316
+9444,Research & Development,South America,Professional Services,2023-08-02 00:13:27,GBP,972691
+1015,Research & Development,North America,Hardware,2023-08-01 06:31:06,USD,963085
+3175,Finance,South America,Hardware,2023-08-01 20:11:54,BRL,302463
+2828,Marketing Operations,South America,Hardware,2023-08-02 13:54:33,SGD,427785
+9861,Finance,Asia Pacific,Supplies,2023-08-03 12:18:33,ARS,477107
+5280,Sales Operations,Europe,Travel,2023-08-02 06:44:49,SGD,264979
+2915,Sales Operations,Asia Pacific,Hardware,2023-08-01 09:30:41,JPY,796806
+3683,IT Infrastructure,South America,Salaries,2023-08-03 14:55:03,SGD,266927
+8780,Research & Development,North America,Benefits,2023-08-03 09:57:53,EUR,735479
+6140,Marketing Operations,South America,Professional Services,2023-08-01 16:56:06,USD,407793
+7792,IT Infrastructure,South America,Advertising,2023-08-02 17:10:12,EUR,138238
+4202,IT Infrastructure,North America,Benefits,2023-08-03 01:30:39,ARS,154502
+7145,Sales Operations,Asia Pacific,Supplies,2023-08-01 11:20:54,USD,980665
+9943,Research & Development,South America,Commissions,2023-08-03 10:42:01,GBP,191460
+3927,Research & Development,Europe,Commissions,2023-08-03 23:47:45,JPY,236671
+9549,IT Infrastructure,Asia Pacific,Benefits,2023-08-02 09:24:34,EUR,796960
+1736,Marketing Operations,South America,Salaries,2023-08-02 17:02:36,USD,991244
+4956,IT Infrastructure,North America,Salaries,2023-08-02 07:17:25,JPY,947762
+3427,Marketing Operations,Europe,Travel,2023-08-03 19:41:39,EUR,612965
+6457,Sales Operations,North America,Hardware,2023-08-01 12:41:52,SGD,502750
+7898,Finance,North America,Supplies,2023-08-03 14:46:02,JPY,292176
+8748,Human Resources,Asia Pacific,Commissions,2023-08-02 13:08:57,BRL,88430
+6073,Human Resources,South America,Supplies,2023-08-02 16:29:37,GBP,371356
+3634,Marketing Operations,Europe,Travel,2023-08-01 22:58:57,BRL,754003
+5013,IT Infrastructure,North America,Benefits,2023-08-02 05:52:00,ARS,816923
+5458,Sales Operations,Europe,Salaries,2023-08-03 19:12:14,GBP,997298
+1586,IT Infrastructure,Asia Pacific,Travel,2023-08-01 08:02:47,BRL,296024
+9099,Human Resources,North America,Software,2023-08-03 09:56:03,USD,146080
+5731,Human Resources,Europe,Advertising,2023-08-01 21:54:48,SGD,935995
+8864,IT Infrastructure,Asia Pacific,Professional Services,2023-08-01 23:18:16,JPY,706397
+2980,Finance,North America,Professional Services,2023-08-02 04:12:33,JPY,439030
+9006,IT Infrastructure,North America,Advertising,2023-08-03 07:39:01,BRL,145007
+1792,Research & Development,South America,Supplies,2023-08-01 19:59:38,ARS,585974
+4680,Marketing Operations,Europe,Benefits,2023-08-01 08:58:26,BRL,324815
+9219,Sales Operations,Asia Pacific,Software,2023-08-02 21:46:00,SGD,716249
+8559,Sales Operations,North America,Supplies,2023-08-02 09:43:50,JPY,26817
+9023,IT Infrastructure,Asia Pacific,Benefits,2023-08-02 19:30:01,EUR,214474
+4134,Sales Operations,South America,Software,2023-08-01 04:15:17,BRL,156248
+8834,IT Infrastructure,Asia Pacific,Advertising,2023-08-01 14:03:00,ARS,708150
+9517,Human Resources,Europe,Software,2023-08-01 08:37:21,JPY,628779
+1849,IT Infrastructure,Europe,Travel,2023-08-01 16:59:02,USD,495148
+1508,Sales Operations,South America,Salaries,2023-08-01 23:59:57,JPY,830294
+7340,Marketing Operations,Europe,Salaries,2023-08-03 01:41:37,GBP,965323
+8653,Human Resources,Europe,Hardware,2023-08-01 04:02:07,EUR,286372
+8638,Sales Operations,Asia Pacific,Commissions,2023-08-01 03:12:04,BRL,573285
+5337,Sales Operations,Europe,Benefits,2023-08-03 04:47:10,ARS,348616
+4750,Finance,South America,Salaries,2023-08-03 22:41:03,JPY,904278
+9790,IT Infrastructure,North America,Software,2023-08-03 08:34:18,GBP,612874
+7860,Marketing Operations,South America,Software,2023-08-01 09:20:26,USD,283141
+5003,Sales Operations,North America,Software,2023-08-03 13:04:02,GBP,947380
+4465,Marketing Operations,South America,Salaries,2023-08-02 06:56:30,BRL,604026
+5800,Sales Operations,North America,Benefits,2023-08-01 05:50:21,EUR,740402
+7865,IT Infrastructure,South America,Salaries,2023-08-03 07:04:01,BRL,116231
+7279,Marketing Operations,North America,Advertising,2023-08-01 10:24:32,GBP,414005
+7756,Marketing Operations,Asia Pacific,Software,2023-08-01 19:28:35,USD,710808
+9816,Human Resources,Europe,Professional Services,2023-08-02 17:59:18,JPY,449300
+6527,Finance,North America,Hardware,2023-08-03 15:27:19,BRL,711485
+9679,Sales Operations,Asia Pacific,Advertising,2023-08-03 22:38:35,USD,856542
+3231,Finance,Asia Pacific,Salaries,2023-08-02 04:57:05,JPY,875267
+3651,Marketing Operations,Asia Pacific,Software,2023-08-03 17:17:02,USD,709953
+8111,Human Resources,Europe,Software,2023-08-01 16:39:47,BRL,996474
+6105,IT Infrastructure,Europe,Supplies,2023-08-02 06:39:27,JPY,555086
+9082,IT Infrastructure,Europe,Hardware,2023-08-03 18:28:36,ARS,783129
+1640,Human Resources,North America,Advertising,2023-08-03 18:09:52,ARS,757268
+1649,Finance,North America,Advertising,2023-08-02 04:35:41,EUR,658857
+2303,Finance,Asia Pacific,Software,2023-08-01 04:42:11,JPY,330076
+8423,Marketing Operations,North America,Benefits,2023-08-03 03:16:23,BRL,335270
+4477,Sales Operations,Europe,Travel,2023-08-03 11:01:03,EUR,217258
+5965,Marketing Operations,South America,Professional Services,2023-08-02 06:04:51,SGD,45859
+9336,Marketing Operations,Europe,Supplies,2023-08-03 00:44:40,SGD,760785
+3427,Sales Operations,Asia Pacific,Supplies,2023-08-01 23:39:13,GBP,163671
+4227,Human Resources,South America,Salaries,2023-08-03 10:08:17,JPY,338252
+9407,Sales Operations,Europe,Advertising,2023-08-02 00:08:53,JPY,393915
+7098,Sales Operations,Europe,Travel,2023-08-02 05:33:05,GBP,267574
+6159,Human Resources,Asia Pacific,Travel,2023-08-03 22:34:06,BRL,10164
+3314,Marketing Operations,Europe,Commissions,2023-08-02 13:15:17,EUR,553424
+5474,Research & Development,North America,Professional Services,2023-08-03 09:05:03,BRL,695576
+8138,Research & Development,Europe,Software,2023-08-02 19:43:30,SGD,935975
+9282,Finance,Europe,Professional Services,2023-08-02 07:33:01,EUR,621646
+4569,IT Infrastructure,South America,Supplies,2023-08-01 07:24:36,USD,301509
+1863,Human Resources,South America,Salaries,2023-08-02 10:56:00,EUR,418289
+4901,Marketing Operations,North America,Supplies,2023-08-02 00:43:29,USD,563909
+1297,Research & Development,North America,Professional Services,2023-08-01 03:38:08,EUR,838010
+1797,IT Infrastructure,Europe,Advertising,2023-08-03 08:43:10,EUR,568925
+7977,Sales Operations,South America,Hardware,2023-08-03 03:29:58,ARS,585707
+2284,Finance,Europe,Advertising,2023-08-03 21:34:42,BRL,723912
+5356,Sales Operations,Europe,Benefits,2023-08-03 18:16:42,EUR,677253
+1447,Marketing Operations,Europe,Software,2023-08-03 09:24:21,JPY,832539
+1735,Marketing Operations,North America,Advertising,2023-08-03 13:22:13,GBP,68989
+9999,Marketing Operations,North America,Hardware,2023-08-02 19:54:13,JPY,742202
+8827,IT Infrastructure,North America,Hardware,2023-08-03 18:38:23,JPY,817672
+1345,Sales Operations,Europe,Commissions,2023-08-03 23:09:59,SGD,497848
+7190,Sales Operations,South America,Travel,2023-08-03 14:33:39,USD,358128
+3288,Finance,Europe,Travel,2023-08-01 07:48:51,BRL,619982
+2866,Finance,North America,Salaries,2023-08-03 10:06:25,SGD,930730
+7971,Sales Operations,South America,Travel,2023-08-03 02:39:10,SGD,506112
+4085,Human Resources,South America,Benefits,2023-08-03 12:57:03,ARS,942944
+7197,Marketing Operations,Europe,Hardware,2023-08-02 23:20:04,SGD,132653
+1369,Human Resources,South America,Advertising,2023-08-02 08:21:47,JPY,774653
+8940,Finance,Europe,Supplies,2023-08-02 18:03:15,EUR,393565
+3086,Research & Development,North America,Benefits,2023-08-02 18:50:59,BRL,565275
+4500,Research & Development,South America,Professional Services,2023-08-01 00:57:18,EUR,580677
+1714,Marketing Operations,Europe,Software,2023-08-01 14:05:28,JPY,80540
+5436,IT Infrastructure,Europe,Salaries,2023-08-02 07:50:51,EUR,733299
+1068,IT Infrastructure,Asia Pacific,Software,2023-08-01 05:24:30,JPY,72253
+4897,Sales Operations,South America,Professional Services,2023-08-01 13:32:31,GBP,944396
+9435,Human Resources,South America,Advertising,2023-08-02 13:08:57,SGD,9193
+9562,Marketing Operations,Asia Pacific,Professional Services,2023-08-03 15:52:22,JPY,803767
+8626,Marketing Operations,South America,Advertising,2023-08-03 10:08:47,ARS,893963
+5397,Human Resources,Europe,Software,2023-08-03 23:23:37,ARS,191970
+6369,Finance,Asia Pacific,Advertising,2023-08-02 01:40:50,GBP,122429
+6022,Marketing Operations,North America,Supplies,2023-08-01 15:45:38,USD,859515
+9498,IT Infrastructure,North America,Advertising,2023-08-03 07:17:07,JPY,797617
+2010,Research & Development,North America,Travel,2023-08-02 00:45:31,JPY,898429
+8664,Research & Development,Europe,Supplies,2023-08-02 04:31:57,BRL,455607
+1759,Marketing Operations,Europe,Professional Services,2023-08-01 22:24:44,JPY,97297
+2365,Finance,Asia Pacific,Benefits,2023-08-01 05:09:07,GBP,356187
+5975,IT Infrastructure,Europe,Software,2023-08-03 23:14:05,USD,483228
+6144,Marketing Operations,North America,Commissions,2023-08-01 02:46:47,BRL,839730
+6763,Marketing Operations,North America,Benefits,2023-08-01 14:26:24,USD,286526
+6969,IT Infrastructure,South America,Advertising,2023-08-01 19:52:07,GBP,709521
+7954,IT Infrastructure,Asia Pacific,Travel,2023-08-02 08:08:33,SGD,368660
+9625,IT Infrastructure,Europe,Travel,2023-08-01 04:27:29,SGD,425758
+5513,Research & Development,North America,Benefits,2023-08-01 20:56:26,JPY,630436
+5762,Human Resources,Asia Pacific,Software,2023-08-01 20:50:09,ARS,109325
+4793,Finance,South America,Advertising,2023-08-02 10:18:15,SGD,285759
+4277,Marketing Operations,Asia Pacific,Supplies,2023-08-02 23:03:02,GBP,984145
+6048,Finance,North America,Professional Services,2023-08-02 20:42:26,JPY,940514
+4856,Human Resources,Europe,Benefits,2023-08-03 10:11:46,EUR,183451
+1531,Marketing Operations,North America,Advertising,2023-08-01 13:55:15,BRL,88470
+7266,Marketing Operations,Asia Pacific,Salaries,2023-08-01 04:21:18,SGD,602893
+2830,Marketing Operations,South America,Software,2023-08-03 16:48:29,BRL,620913
+2300,IT Infrastructure,North America,Hardware,2023-08-02 01:25:07,SGD,430214
+3523,Marketing Operations,Europe,Commissions,2023-08-01 02:32:38,EUR,784789
+2888,Sales Operations,Asia Pacific,Advertising,2023-08-03 12:35:38,GBP,268728
+2848,Sales Operations,North America,Advertising,2023-08-03 02:08:26,JPY,500602
+6695,Human Resources,North America,Hardware,2023-08-03 16:28:57,USD,302356
+3968,Human Resources,South America,Professional Services,2023-08-01 16:12:39,ARS,133669
+4977,IT Infrastructure,Asia Pacific,Advertising,2023-08-03 09:00:57,GBP,989740
+3474,Human Resources,South America,Professional Services,2023-08-03 09:43:00,SGD,30909
+4989,Human Resources,Europe,Professional Services,2023-08-02 14:25:07,JPY,326008
+9405,Marketing Operations,South America,Salaries,2023-08-02 14:07:52,GBP,691632
+3647,Marketing Operations,South America,Software,2023-08-01 13:52:27,USD,321083
+2891,IT Infrastructure,Europe,Hardware,2023-08-01 00:05:03,ARS,639606
+9006,Finance,South America,Commissions,2023-08-03 18:57:35,ARS,161733
+7885,Research & Development,South America,Professional Services,2023-08-02 23:52:11,USD,820036
+4367,Sales Operations,South America,Salaries,2023-08-01 07:34:23,BRL,23112
+5794,Research & Development,South America,Advertising,2023-08-03 12:25:20,BRL,841865
+8702,Research & Development,North America,Salaries,2023-08-01 07:31:00,BRL,628755
+1568,Marketing Operations,Europe,Hardware,2023-08-02 19:10:46,SGD,853832
+2781,Marketing Operations,North America,Advertising,2023-08-03 05:21:07,SGD,937895
+4633,Sales Operations,Asia Pacific,Commissions,2023-08-02 13:48:23,ARS,634553
+5865,Finance,Asia Pacific,Travel,2023-08-02 04:54:23,ARS,316361
+2388,IT Infrastructure,North America,Professional Services,2023-08-01 22:57:35,ARS,966342
+6499,IT Infrastructure,North America,Hardware,2023-08-03 10:48:24,JPY,188405
+4880,Sales Operations,Asia Pacific,Professional Services,2023-08-03 05:00:47,BRL,841564
+9945,Finance,North America,Professional Services,2023-08-03 15:24:54,USD,501691
+4259,Sales Operations,South America,Software,2023-08-01 21:25:54,SGD,655955
+2776,Marketing Operations,North America,Professional Services,2023-08-02 15:23:40,EUR,676172
+7624,Marketing Operations,Asia Pacific,Commissions,2023-08-02 20:32:23,SGD,159566
+9263,Human Resources,South America,Professional Services,2023-08-02 02:42:57,EUR,319088
+7181,Finance,South America,Software,2023-08-03 21:59:47,GBP,768512
+4819,Human Resources,South America,Salaries,2023-08-01 23:23:02,BRL,955793
+9436,Marketing Operations,South America,Software,2023-08-03 18:52:03,GBP,100030
+8400,Research & Development,Europe,Advertising,2023-08-01 03:27:09,SGD,927311
+6783,Marketing Operations,South America,Salaries,2023-08-03 10:31:41,BRL,657998
+8510,Human Resources,North America,Advertising,2023-08-03 05:27:23,SGD,568395
+8834,Human Resources,North America,Supplies,2023-08-03 05:27:08,JPY,60626
+9613,IT Infrastructure,North America,Supplies,2023-08-02 23:02:03,JPY,923320
+3275,Research & Development,South America,Advertising,2023-08-01 09:21:33,SGD,780241
+1017,IT Infrastructure,Asia Pacific,Professional Services,2023-08-01 00:27:10,GBP,824486
+1985,Sales Operations,Europe,Advertising,2023-08-01 11:41:54,BRL,493513
+7084,Marketing Operations,Asia Pacific,Benefits,2023-08-01 02:05:33,USD,395332
+6719,Finance,Asia Pacific,Professional Services,2023-08-02 21:57:33,GBP,745794
+6290,Finance,South America,Benefits,2023-08-02 12:41:15,SGD,850885
+1566,Finance,Asia Pacific,Benefits,2023-08-03 11:46:52,BRL,22447
+9255,IT Infrastructure,North America,Benefits,2023-08-02 22:26:53,USD,485476
+6644,Sales Operations,Europe,Hardware,2023-08-03 21:45:27,ARS,5959
+3269,IT Infrastructure,South America,Salaries,2023-08-02 11:26:47,JPY,475281
+9229,IT Infrastructure,North America,Salaries,2023-08-03 19:04:03,USD,524734
+4431,Marketing Operations,Europe,Benefits,2023-08-01 02:27:21,ARS,641556
+1135,Human Resources,South America,Supplies,2023-08-01 16:53:51,USD,634360
+4069,Human Resources,Asia Pacific,Advertising,2023-08-02 14:45:12,USD,220896
+6226,Sales Operations,North America,Salaries,2023-08-02 22:15:26,GBP,527324
+2851,IT Infrastructure,North America,Benefits,2023-08-03 20:29:52,ARS,307398
+3536,Finance,Europe,Advertising,2023-08-03 00:54:20,SGD,338762
+9081,Finance,Asia Pacific,Salaries,2023-08-03 07:09:17,USD,111924
+8007,Research & Development,South America,Commissions,2023-08-02 02:26:23,GBP,693979
+9675,Finance,North America,Commissions,2023-08-01 12:42:45,SGD,166909
+7220,Human Resources,Asia Pacific,Benefits,2023-08-03 18:09:40,SGD,61732
+3312,Marketing Operations,Europe,Hardware,2023-08-01 07:49:56,SGD,71707
+5776,Finance,South America,Benefits,2023-08-03 14:48:07,EUR,642835
+7526,Human Resources,North America,Professional Services,2023-08-02 00:18:34,ARS,85455
+3736,Sales Operations,North America,Commissions,2023-08-02 13:00:58,EUR,349955
+8678,Sales Operations,Asia Pacific,Travel,2023-08-01 11:37:12,USD,661405
+6051,IT Infrastructure,Europe,Hardware,2023-08-03 02:47:07,GBP,131987
+5110,Marketing Operations,Asia Pacific,Software,2023-08-01 13:58:23,JPY,662569
+9245,Research & Development,Europe,Commissions,2023-08-03 18:28:33,JPY,547065
+4165,Human Resources,Europe,Benefits,2023-08-01 20:11:57,SGD,711278
+3266,IT Infrastructure,South America,Travel,2023-08-01 17:19:46,USD,258249
+1884,Finance,Asia Pacific,Software,2023-08-03 00:15:46,SGD,40375
+3497,Sales Operations,North America,Advertising,2023-08-01 17:32:42,EUR,908711
+3601,IT Infrastructure,Europe,Travel,2023-08-03 12:58:28,ARS,360385
+2442,Research & Development,North America,Supplies,2023-08-01 15:56:04,USD,513624
+8290,Research & Development,Asia Pacific,Travel,2023-08-02 07:24:52,SGD,900843
+3568,Human Resources,North America,Hardware,2023-08-03 19:41:20,EUR,892525
+6027,IT Infrastructure,Europe,Hardware,2023-08-02 22:25:52,SGD,802502
+6723,Marketing Operations,Asia Pacific,Hardware,2023-08-03 00:15:06,GBP,11194
+3718,Sales Operations,Asia Pacific,Hardware,2023-08-01 16:44:26,EUR,111606
+5506,Human Resources,Europe,Salaries,2023-08-02 07:50:23,ARS,508614
+3898,Research & Development,Asia Pacific,Salaries,2023-08-03 14:56:12,BRL,191487
+7163,Research & Development,Europe,Supplies,2023-08-01 12:10:27,ARS,782468
+3348,IT Infrastructure,North America,Advertising,2023-08-03 20:44:25,SGD,161945
+7160,Marketing Operations,Asia Pacific,Software,2023-08-03 17:32:05,JPY,173620
+1904,Research & Development,North America,Supplies,2023-08-03 05:45:44,JPY,102941
+9462,Human Resources,North America,Hardware,2023-08-01 19:23:49,USD,597002
+6658,Human Resources,Asia Pacific,Professional Services,2023-08-03 08:41:54,USD,719476
+9466,Sales Operations,Asia Pacific,Professional Services,2023-08-01 10:14:18,SGD,804909
+5511,Research & Development,Europe,Professional Services,2023-08-03 02:39:47,JPY,838877
+2554,Human Resources,North America,Commissions,2023-08-03 15:09:22,BRL,32728
+1772,Finance,Asia Pacific,Commissions,2023-08-01 12:59:22,SGD,896805
+9086,Sales Operations,South America,Software,2023-08-03 11:09:53,GBP,951411
+2962,Sales Operations,South America,Benefits,2023-08-03 20:08:10,GBP,660421
+8899,Finance,South America,Salaries,2023-08-03 21:54:03,USD,688625
+3733,Human Resources,North America,Travel,2023-08-01 12:26:08,GBP,692514
+1576,Human Resources,South America,Hardware,2023-08-03 22:16:41,SGD,503387
+8696,Research & Development,North America,Commissions,2023-08-03 20:24:31,ARS,854419
+9025,Sales Operations,South America,Travel,2023-08-03 23:28:44,EUR,290158
+4992,Human Resources,North America,Hardware,2023-08-01 11:06:26,SGD,791716
+1383,IT Infrastructure,Europe,Hardware,2023-08-02 07:18:26,GBP,955635
+4686,IT Infrastructure,Asia Pacific,Professional Services,2023-08-02 23:10:24,EUR,28966
+4607,Marketing Operations,North America,Professional Services,2023-08-03 20:17:22,EUR,255138
+7387,Marketing Operations,Asia Pacific,Advertising,2023-08-01 12:25:03,EUR,579303
+9514,IT Infrastructure,North America,Hardware,2023-08-02 02:30:51,JPY,84609
+5991,Sales Operations,North America,Supplies,2023-08-02 04:27:55,GBP,254922
+8726,Human Resources,North America,Travel,2023-08-02 01:56:16,EUR,321455
+2727,Human Resources,Europe,Benefits,2023-08-02 23:10:36,EUR,936631
+7480,Finance,South America,Benefits,2023-08-03 16:44:27,ARS,979961
+5627,Sales Operations,South America,Supplies,2023-08-02 07:44:50,USD,431524
+9204,IT Infrastructure,North America,Advertising,2023-08-01 15:58:38,ARS,984935
+2286,Sales Operations,North America,Advertising,2023-08-01 13:23:33,BRL,850716
+4994,Finance,Europe,Benefits,2023-08-01 05:30:26,JPY,280172
+5522,IT Infrastructure,Asia Pacific,Commissions,2023-08-02 04:58:14,SGD,371135
+4228,Finance,South America,Advertising,2023-08-03 21:29:41,USD,754230
+8782,Marketing Operations,South America,Commissions,2023-08-02 08:23:17,USD,461417
+6097,Human Resources,South America,Hardware,2023-08-01 03:38:48,ARS,446989
+8540,IT Infrastructure,North America,Supplies,2023-08-02 05:48:59,ARS,852926
+3118,Sales Operations,Europe,Supplies,2023-08-01 16:43:43,EUR,979952
+1432,Finance,North America,Salaries,2023-08-02 11:40:32,ARS,176255
+2286,Sales Operations,Europe,Professional Services,2023-08-03 21:59:57,BRL,765098
+7152,Sales Operations,North America,Supplies,2023-08-01 18:51:05,SGD,747469
+2335,Research & Development,Asia Pacific,Software,2023-08-01 17:52:58,JPY,960897
+3861,Finance,South America,Hardware,2023-08-03 14:24:29,JPY,110219
+1259,Finance,Europe,Professional Services,2023-08-02 01:28:32,SGD,532044
+8064,Finance,South America,Professional Services,2023-08-03 16:29:53,ARS,821837
+6618,Human Resources,Europe,Advertising,2023-08-02 19:38:43,JPY,503722
+7542,Research & Development,North America,Software,2023-08-02 08:46:05,EUR,566222
+2395,Finance,Asia Pacific,Travel,2023-08-03 01:32:12,USD,553073
+2445,Marketing Operations,Asia Pacific,Salaries,2023-08-02 04:57:46,ARS,832558
+9957,Finance,Asia Pacific,Benefits,2023-08-03 15:46:09,USD,418433
+6277,Research & Development,South America,Hardware,2023-08-03 05:12:24,ARS,448609
+5466,Human Resources,Europe,Benefits,2023-08-01 04:20:45,BRL,670291
+2911,Sales Operations,Europe,Hardware,2023-08-02 14:24:17,GBP,523209
+5962,IT Infrastructure,North America,Software,2023-08-01 03:06:21,USD,563055
+4753,Marketing Operations,Asia Pacific,Professional Services,2023-08-03 01:18:13,JPY,611444
+8190,Marketing Operations,North America,Software,2023-08-01 21:39:15,EUR,975005
+9499,Research & Development,South America,Hardware,2023-08-02 09:11:33,EUR,357487
+2879,IT Infrastructure,Europe,Supplies,2023-08-01 12:20:22,BRL,147986
+1508,IT Infrastructure,South America,Advertising,2023-08-03 01:46:03,EUR,374873
+3558,Sales Operations,South America,Advertising,2023-08-02 16:26:14,EUR,998953
+4644,IT Infrastructure,Asia Pacific,Supplies,2023-08-02 20:04:06,EUR,792319
+1663,Human Resources,South America,Benefits,2023-08-01 03:22:36,SGD,908801
+8989,IT Infrastructure,Europe,Benefits,2023-08-02 19:58:09,USD,578876
+8971,Sales Operations,North America,Professional Services,2023-08-01 18:25:28,GBP,906548
+5032,IT Infrastructure,Asia Pacific,Software,2023-08-01 01:23:16,BRL,512691
+5831,Human Resources,Asia Pacific,Travel,2023-08-02 15:05:28,EUR,536824
+5993,Research & Development,South America,Hardware,2023-08-02 17:42:21,GBP,221753
+8552,Research & Development,Europe,Hardware,2023-08-02 21:30:22,EUR,633053
+1603,Finance,South America,Software,2023-08-03 07:03:07,EUR,506192
+7226,Sales Operations,South America,Salaries,2023-08-03 09:30:43,EUR,223471
+7001,IT Infrastructure,North America,Hardware,2023-08-01 19:23:58,GBP,57372
+7579,IT Infrastructure,North America,Advertising,2023-08-03 09:45:54,USD,829668
+4191,IT Infrastructure,North America,Commissions,2023-08-02 17:48:08,GBP,177895
+7557,Sales Operations,North America,Advertising,2023-08-02 23:33:19,GBP,231629
+5218,Research & Development,Asia Pacific,Travel,2023-08-01 14:41:35,SGD,280270
+4738,Marketing Operations,Europe,Supplies,2023-08-01 23:29:43,ARS,987751
+3116,Finance,South America,Travel,2023-08-02 11:24:56,GBP,168306
+7781,Research & Development,North America,Supplies,2023-08-02 04:07:01,JPY,678893
+9871,IT Infrastructure,North America,Travel,2023-08-03 17:07:48,SGD,6752
+6580,Finance,Europe,Supplies,2023-08-01 03:34:14,BRL,616220
+1147,Sales Operations,Asia Pacific,Salaries,2023-08-02 05:15:28,BRL,274168
+1328,Finance,Asia Pacific,Hardware,2023-08-02 13:59:44,ARS,384954
+1883,Human Resources,South America,Benefits,2023-08-03 23:33:25,BRL,596777
+2103,Research & Development,North America,Commissions,2023-08-02 18:53:13,SGD,752407
+8007,Sales Operations,North America,Supplies,2023-08-02 10:32:04,JPY,861813
+1558,IT Infrastructure,South America,Commissions,2023-08-01 13:24:14,BRL,925921
+9032,Human Resources,North America,Travel,2023-08-01 17:34:19,SGD,140271
+5654,IT Infrastructure,Europe,Professional Services,2023-08-01 06:01:58,USD,647190
+9347,Marketing Operations,South America,Supplies,2023-08-02 10:55:39,GBP,434264
+4760,Marketing Operations,South America,Software,2023-08-03 15:58:06,USD,802412
+8320,Marketing Operations,North America,Professional Services,2023-08-01 21:17:36,EUR,487042
+5981,Finance,Europe,Software,2023-08-01 17:32:42,EUR,804435
+6287,IT Infrastructure,South America,Salaries,2023-08-01 21:20:03,EUR,668127
+6945,Marketing Operations,Europe,Salaries,2023-08-01 20:39:21,SGD,645206
+8649,Research & Development,South America,Software,2023-08-02 04:04:40,EUR,677732
+8787,Research & Development,South America,Advertising,2023-08-02 01:17:16,JPY,190604
+9285,IT Infrastructure,South America,Travel,2023-08-02 00:11:02,GBP,6676
+1049,IT Infrastructure,South America,Software,2023-08-01 03:51:04,USD,26418
+4587,Sales Operations,South America,Benefits,2023-08-01 16:45:40,EUR,703950
+8431,IT Infrastructure,North America,Benefits,2023-08-02 04:52:41,SGD,156316
+7873,Marketing Operations,South America,Commissions,2023-08-02 12:11:43,EUR,634294
+6958,Marketing Operations,Asia Pacific,Benefits,2023-08-01 13:42:35,GBP,541698
+6723,Research & Development,North America,Salaries,2023-08-01 05:34:28,USD,269650
+1045,Human Resources,North America,Software,2023-08-02 00:54:27,BRL,87412
+3301,Research & Development,North America,Commissions,2023-08-01 04:19:12,SGD,127333
+2136,Marketing Operations,South America,Professional Services,2023-08-03 15:33:15,EUR,816910
+2620,Sales Operations,Asia Pacific,Software,2023-08-03 18:21:40,BRL,624334
+8694,Research & Development,Europe,Salaries,2023-08-03 21:31:31,USD,901797
+3787,Research & Development,South America,Supplies,2023-08-03 09:02:53,SGD,7877
+2171,Research & Development,Asia Pacific,Hardware,2023-08-02 21:55:56,ARS,438432
+2077,Human Resources,North America,Salaries,2023-08-02 18:48:24,ARS,80364
+1689,IT Infrastructure,North America,Advertising,2023-08-01 15:59:30,GBP,676872
+6071,Sales Operations,South America,Software,2023-08-02 12:35:53,BRL,952880
+6922,Marketing Operations,Europe,Supplies,2023-08-01 20:38:14,GBP,26854
+1677,Sales Operations,Asia Pacific,Software,2023-08-03 11:45:37,JPY,829211
+7626,Marketing Operations,South America,Hardware,2023-08-02 23:23:46,EUR,680359
+1949,Research & Development,Europe,Supplies,2023-08-01 02:02:27,ARS,818186
+9586,Research & Development,Asia Pacific,Commissions,2023-08-01 23:53:49,GBP,961545
+1770,Sales Operations,Asia Pacific,Salaries,2023-08-02 20:17:50,USD,250342
+4453,Human Resources,South America,Advertising,2023-08-01 13:55:05,EUR,866250
+5231,Sales Operations,South America,Commissions,2023-08-03 19:25:13,GBP,55582
+7351,Finance,Asia Pacific,Benefits,2023-08-03 09:08:52,BRL,158901
+5678,Research & Development,Europe,Hardware,2023-08-02 22:18:21,BRL,108684
+4401,Research & Development,Europe,Advertising,2023-08-03 08:51:37,BRL,207763
+8733,Finance,North America,Commissions,2023-08-02 00:08:12,BRL,124082
+6319,IT Infrastructure,Asia Pacific,Hardware,2023-08-01 18:02:42,SGD,289467
+5145,IT Infrastructure,Europe,Benefits,2023-08-01 16:25:46,BRL,408398
+2605,Human Resources,Europe,Salaries,2023-08-03 13:13:53,ARS,59976
+6998,IT Infrastructure,Europe,Salaries,2023-08-01 17:23:34,GBP,310210
+8896,IT Infrastructure,North America,Advertising,2023-08-01 09:42:24,BRL,889461
+2582,Human Resources,Europe,Advertising,2023-08-01 02:07:41,GBP,914199
+7138,IT Infrastructure,Asia Pacific,Salaries,2023-08-03 07:11:37,ARS,596527
+5222,Finance,South America,Advertising,2023-08-02 23:24:32,GBP,706981
+5217,IT Infrastructure,North America,Software,2023-08-03 13:18:27,BRL,406166
+2683,Human Resources,South America,Professional Services,2023-08-01 13:29:41,BRL,618468
+2237,Research & Development,Asia Pacific,Software,2023-08-01 03:24:27,SGD,192346
+8022,Marketing Operations,South America,Benefits,2023-08-02 15:51:29,GBP,436178
+7817,Finance,North America,Benefits,2023-08-02 19:38:19,GBP,975083
+2970,Sales Operations,Europe,Hardware,2023-08-03 10:56:03,ARS,39480
+9107,IT Infrastructure,North America,Benefits,2023-08-03 03:16:15,GBP,437706
+8653,IT Infrastructure,Europe,Professional Services,2023-08-01 00:19:09,BRL,772544
+3427,IT Infrastructure,Asia Pacific,Software,2023-08-01 18:47:25,USD,861096
+9764,IT Infrastructure,Asia Pacific,Hardware,2023-08-03 08:22:31,BRL,636989
+8687,Finance,Europe,Benefits,2023-08-01 10:07:43,JPY,336207
+2572,Human Resources,South America,Travel,2023-08-03 12:42:30,BRL,305492
+2650,Marketing Operations,South America,Salaries,2023-08-01 23:12:56,ARS,962142
+6449,Research & Development,Asia Pacific,Professional Services,2023-08-03 11:43:16,JPY,811888
+7142,Marketing Operations,Asia Pacific,Travel,2023-08-02 15:54:15,BRL,640704
+6321,Finance,Asia Pacific,Benefits,2023-08-02 10:58:35,ARS,410466
+5746,Sales Operations,South America,Salaries,2023-08-01 12:20:30,ARS,234044
+2767,Research & Development,North America,Software,2023-08-01 18:05:05,SGD,787412
+3472,Marketing Operations,North America,Benefits,2023-08-02 00:30:53,EUR,437573
+7650,IT Infrastructure,Europe,Professional Services,2023-08-03 17:30:42,USD,677464
+7275,Finance,Asia Pacific,Commissions,2023-08-02 19:24:54,SGD,729440
+3260,Research & Development,South America,Supplies,2023-08-01 17:45:27,BRL,419708
+3059,IT Infrastructure,Europe,Advertising,2023-08-03 04:18:36,BRL,885326
+8535,Research & Development,Asia Pacific,Supplies,2023-08-03 10:13:15,BRL,734501
+6234,IT Infrastructure,North America,Supplies,2023-08-03 12:45:19,GBP,193908
+8317,Marketing Operations,Asia Pacific,Benefits,2023-08-02 12:03:51,EUR,264769
+9861,Marketing Operations,North America,Software,2023-08-02 10:41:43,ARS,461451
+5278,Finance,Asia Pacific,Professional Services,2023-08-01 23:23:22,ARS,609575
+1798,Human Resources,South America,Salaries,2023-08-03 10:00:42,JPY,696989
+6976,IT Infrastructure,South America,Commissions,2023-08-02 04:05:23,JPY,155304
+4637,IT Infrastructure,South America,Supplies,2023-08-03 22:13:39,BRL,933113
+9314,Research & Development,South America,Commissions,2023-08-02 15:31:25,SGD,789346
+5207,Research & Development,North America,Supplies,2023-08-03 13:53:41,USD,22049
+2589,Marketing Operations,Europe,Advertising,2023-08-01 12:56:47,BRL,664161
+7653,Finance,South America,Benefits,2023-08-03 10:49:40,ARS,619407
+3880,Finance,Asia Pacific,Salaries,2023-08-03 22:55:32,GBP,882984
+5803,Research & Development,Europe,Advertising,2023-08-03 21:59:52,USD,432120
+6764,IT Infrastructure,Europe,Travel,2023-08-03 16:37:41,EUR,926716
+4138,Sales Operations,North America,Travel,2023-08-01 13:21:11,USD,669831
+8463,IT Infrastructure,Europe,Travel,2023-08-01 06:17:40,GBP,512743
+1682,IT Infrastructure,North America,Professional Services,2023-08-02 14:09:53,EUR,437682
+1783,Human Resources,South America,Advertising,2023-08-02 12:58:53,GBP,598513
+5103,Finance,North America,Benefits,2023-08-03 01:05:37,BRL,128912
+5619,Finance,Asia Pacific,Hardware,2023-08-01 23:56:48,USD,403407
+2226,Marketing Operations,South America,Software,2023-08-03 20:19:50,GBP,21262
+7260,Sales Operations,Asia Pacific,Travel,2023-08-02 15:36:17,ARS,510231
+5981,Sales Operations,North America,Travel,2023-08-02 05:14:55,SGD,658641
+6375,Research & Development,Asia Pacific,Software,2023-08-01 08:00:36,USD,137529
+3618,Finance,South America,Salaries,2023-08-01 10:12:50,SGD,719680
+3391,Marketing Operations,North America,Benefits,2023-08-02 16:18:23,SGD,667134
+6314,Sales Operations,South America,Travel,2023-08-03 18:35:44,JPY,178122
+9633,IT Infrastructure,Asia Pacific,Benefits,2023-08-03 15:17:57,GBP,736807
+8603,Finance,Europe,Advertising,2023-08-01 12:21:41,BRL,769292
+1159,Research & Development,Europe,Salaries,2023-08-02 08:52:02,BRL,19480
+3220,Research & Development,Asia Pacific,Professional Services,2023-08-03 21:24:53,EUR,105853
+6426,Research & Development,Asia Pacific,Travel,2023-08-03 04:53:56,ARS,477009
+2577,Research & Development,Asia Pacific,Hardware,2023-08-02 03:25:08,BRL,932882
+5984,Marketing Operations,South America,Salaries,2023-08-01 22:18:43,SGD,201366
+8969,Human Resources,North America,Supplies,2023-08-03 03:14:46,SGD,595575
+4789,IT Infrastructure,North America,Software,2023-08-01 07:30:06,SGD,863946
+3543,Research & Development,Asia Pacific,Hardware,2023-08-01 18:57:29,SGD,742057
+8457,Marketing Operations,Europe,Hardware,2023-08-01 12:02:58,ARS,258016
+3336,Human Resources,Asia Pacific,Travel,2023-08-01 11:22:26,BRL,536579
+4983,Human Resources,North America,Salaries,2023-08-03 17:02:06,SGD,186517
+1857,Human Resources,South America,Commissions,2023-08-03 19:52:03,BRL,133206
+5134,Sales Operations,Asia Pacific,Salaries,2023-08-01 09:29:31,GBP,195698
+5948,Marketing Operations,South America,Travel,2023-08-03 04:40:22,EUR,130064
+1301,Sales Operations,Europe,Salaries,2023-08-03 23:01:51,JPY,939851
+9340,Finance,South America,Commissions,2023-08-03 14:10:36,EUR,776486
+1765,Finance,South America,Software,2023-08-02 20:21:48,SGD,736130
+1408,Human Resources,Asia Pacific,Benefits,2023-08-01 04:55:55,GBP,199963
+1796,Marketing Operations,South America,Travel,2023-08-03 12:47:30,EUR,83239
+1386,Sales Operations,Europe,Software,2023-08-02 04:59:49,JPY,604383
+8306,Marketing Operations,South America,Hardware,2023-08-03 02:47:35,SGD,192786
+2566,Marketing Operations,South America,Benefits,2023-08-03 00:10:24,USD,406048
+2475,Sales Operations,Europe,Software,2023-08-02 05:44:32,JPY,99226
+8039,Finance,Europe,Benefits,2023-08-02 18:34:14,USD,472457
+2972,IT Infrastructure,Europe,Salaries,2023-08-02 01:48:41,USD,602449
+9830,Human Resources,South America,Professional Services,2023-08-02 14:28:54,EUR,259877
+2739,Sales Operations,South America,Professional Services,2023-08-01 19:23:14,ARS,484059
+5049,IT Infrastructure,Europe,Supplies,2023-08-03 10:41:34,EUR,261137
+2737,Human Resources,South America,Travel,2023-08-03 01:03:37,USD,283843
+4692,Research & Development,Europe,Advertising,2023-08-03 09:37:13,ARS,629953
+9601,Finance,Europe,Professional Services,2023-08-03 16:34:45,SGD,628393
+3114,Research & Development,North America,Benefits,2023-08-03 00:10:30,USD,36538
+2022,Finance,Asia Pacific,Travel,2023-08-03 08:25:04,BRL,370206
+3769,Marketing Operations,South America,Hardware,2023-08-03 01:47:31,BRL,406887
+7315,Research & Development,Europe,Professional Services,2023-08-01 00:34:40,GBP,844677
+5020,Finance,Asia Pacific,Advertising,2023-08-01 01:34:32,GBP,503355
+7188,IT Infrastructure,Europe,Salaries,2023-08-03 18:47:46,EUR,909906
+5235,Research & Development,Asia Pacific,Professional Services,2023-08-01 12:34:40,USD,832472
+4764,Marketing Operations,North America,Software,2023-08-03 06:59:41,ARS,645019
+9585,IT Infrastructure,Asia Pacific,Hardware,2023-08-01 22:05:52,BRL,436366
+6851,Marketing Operations,Asia Pacific,Professional Services,2023-08-03 13:09:49,EUR,932006
+7427,Research & Development,South America,Hardware,2023-08-03 00:33:25,JPY,50790
+9465,Sales Operations,South America,Hardware,2023-08-03 08:47:02,BRL,580227
+1923,Finance,Asia Pacific,Hardware,2023-08-02 11:00:26,JPY,527846
+4459,Sales Operations,Asia Pacific,Professional Services,2023-08-01 19:54:51,BRL,104615
+3850,Marketing Operations,Asia Pacific,Commissions,2023-08-03 02:27:05,SGD,715082
+4801,Sales Operations,Europe,Software,2023-08-02 22:13:37,JPY,462660
+1180,Sales Operations,North America,Advertising,2023-08-01 06:18:49,USD,547878
+6575,Sales Operations,Asia Pacific,Hardware,2023-08-03 23:25:43,GBP,708487
+4203,IT Infrastructure,Europe,Supplies,2023-08-03 13:28:15,SGD,247430
+6647,Sales Operations,North America,Commissions,2023-08-03 00:32:40,USD,73540
+2539,Sales Operations,Asia Pacific,Hardware,2023-08-01 22:17:04,GBP,416879
+1293,Finance,Europe,Professional Services,2023-08-01 09:08:34,JPY,141228
+3726,Human Resources,Europe,Advertising,2023-08-02 07:31:31,SGD,524264
+9030,Sales Operations,South America,Benefits,2023-08-02 11:32:25,GBP,566047
+5765,Human Resources,North America,Supplies,2023-08-02 14:38:43,JPY,692463
+7352,IT Infrastructure,North America,Commissions,2023-08-02 01:44:56,JPY,207203
+8576,IT Infrastructure,South America,Commissions,2023-08-01 15:37:47,JPY,44571
+1206,Finance,South America,Travel,2023-08-03 20:07:48,SGD,534879
+2553,Finance,Europe,Professional Services,2023-08-03 00:34:22,GBP,58390
+7527,Human Resources,South America,Travel,2023-08-02 18:52:40,BRL,750671
+2848,IT Infrastructure,North America,Software,2023-08-02 19:53:06,ARS,880865
+9447,Marketing Operations,Asia Pacific,Salaries,2023-08-03 02:53:00,GBP,989013
+9178,Finance,South America,Hardware,2023-08-03 00:50:52,EUR,962106
+7754,Sales Operations,Europe,Advertising,2023-08-03 17:16:56,SGD,447208
+4194,Human Resources,Europe,Travel,2023-08-02 06:17:10,GBP,312099
+5892,IT Infrastructure,South America,Benefits,2023-08-03 23:19:14,GBP,826090
+6675,Sales Operations,North America,Salaries,2023-08-03 02:14:05,ARS,985292
+3114,Sales Operations,Europe,Hardware,2023-08-01 00:06:41,BRL,443473
+7717,Marketing Operations,Europe,Supplies,2023-08-01 04:09:06,USD,903021
+8213,Research & Development,North America,Benefits,2023-08-02 04:06:29,JPY,212618
+9949,IT Infrastructure,Asia Pacific,Professional Services,2023-08-02 18:53:19,EUR,260594
+6685,Sales Operations,North America,Advertising,2023-08-02 22:03:43,GBP,128173
+4184,IT Infrastructure,South America,Commissions,2023-08-01 19:21:49,GBP,466740
+5004,Finance,South America,Hardware,2023-08-03 08:30:06,SGD,536785
+4715,Research & Development,Europe,Supplies,2023-08-02 03:17:18,BRL,588858
+4767,Human Resources,North America,Benefits,2023-08-03 03:18:37,JPY,872354
+2806,IT Infrastructure,North America,Advertising,2023-08-02 08:43:46,BRL,486747
+9483,Sales Operations,Asia Pacific,Professional Services,2023-08-03 18:30:00,JPY,679867
+8519,IT Infrastructure,Asia Pacific,Software,2023-08-02 22:12:41,SGD,919786
+1825,Research & Development,Europe,Benefits,2023-08-02 01:02:21,JPY,412471
+6887,Sales Operations,Asia Pacific,Professional Services,2023-08-02 13:16:24,EUR,195529
+1336,Marketing Operations,Asia Pacific,Benefits,2023-08-01 05:49:07,SGD,162141
+2096,Sales Operations,South America,Supplies,2023-08-03 13:06:24,EUR,458530
+8373,Human Resources,Europe,Benefits,2023-08-02 15:54:51,SGD,587693
+7960,IT Infrastructure,North America,Supplies,2023-08-01 11:00:48,EUR,958619
+7784,Research & Development,North America,Salaries,2023-08-02 09:35:53,JPY,393352
+6421,Marketing Operations,North America,Software,2023-08-03 11:19:31,ARS,446415
+8689,IT Infrastructure,North America,Hardware,2023-08-02 00:35:57,JPY,827751
+9878,Human Resources,South America,Benefits,2023-08-03 14:59:59,ARS,602497
+1139,Sales Operations,Asia Pacific,Hardware,2023-08-03 11:47:22,SGD,722232
+9217,Marketing Operations,Asia Pacific,Supplies,2023-08-03 17:57:55,BRL,261470
+4500,IT Infrastructure,South America,Professional Services,2023-08-03 10:13:19,ARS,530041
+8813,Marketing Operations,Asia Pacific,Professional Services,2023-08-01 08:03:24,ARS,823225
+2025,Marketing Operations,North America,Benefits,2023-08-03 08:38:38,EUR,595834
+7132,Sales Operations,Europe,Professional Services,2023-08-03 19:14:45,USD,833111
+9673,IT Infrastructure,North America,Professional Services,2023-08-02 15:13:31,GBP,945740
+9445,Human Resources,Asia Pacific,Salaries,2023-08-01 00:43:42,JPY,156692
+3330,Human Resources,South America,Commissions,2023-08-02 13:57:14,EUR,113402
+5786,Human Resources,Europe,Hardware,2023-08-03 16:58:49,ARS,378137
+7411,Finance,North America,Travel,2023-08-02 18:04:24,BRL,150254
+6323,Marketing Operations,North America,Software,2023-08-01 06:58:41,USD,26481
+7776,IT Infrastructure,South America,Travel,2023-08-03 19:21:50,EUR,727689
+6378,Sales Operations,Europe,Benefits,2023-08-02 20:12:13,BRL,963596
+1338,Human Resources,North America,Salaries,2023-08-01 16:33:34,BRL,975325
+3060,Research & Development,Europe,Travel,2023-08-02 00:40:38,JPY,580233
+9826,Sales Operations,North America,Hardware,2023-08-02 03:31:02,GBP,642413
+9627,Human Resources,North America,Commissions,2023-08-02 06:42:36,GBP,655897
+9915,Finance,Europe,Salaries,2023-08-03 04:39:55,BRL,43705
+4345,Finance,Europe,Commissions,2023-08-02 22:51:48,BRL,34812
+8560,Sales Operations,Asia Pacific,Travel,2023-08-01 15:15:32,BRL,363837
+4985,Finance,Europe,Salaries,2023-08-02 17:04:37,BRL,726259
+1273,IT Infrastructure,South America,Commissions,2023-08-01 08:40:33,USD,316696
+7780,Finance,Asia Pacific,Supplies,2023-08-02 13:19:30,ARS,646724
+1264,Sales Operations,Asia Pacific,Supplies,2023-08-02 23:11:42,GBP,334185
+1289,Human Resources,Europe,Travel,2023-08-01 05:29:10,EUR,930718
+3534,IT Infrastructure,Europe,Salaries,2023-08-03 01:13:19,GBP,679371
+6784,Human Resources,North America,Software,2023-08-03 00:18:53,ARS,862386
+2017,Finance,Asia Pacific,Travel,2023-08-03 08:07:32,ARS,968760
+6510,Sales Operations,Asia Pacific,Supplies,2023-08-02 03:14:26,JPY,880997
+2756,Finance,Europe,Supplies,2023-08-01 18:48:30,BRL,769432
+5560,Finance,South America,Software,2023-08-01 18:36:07,ARS,920804
+4892,IT Infrastructure,South America,Professional Services,2023-08-03 19:33:00,JPY,846693
+9907,IT Infrastructure,Asia Pacific,Software,2023-08-03 11:23:33,JPY,906871
+9999,Marketing Operations,Europe,Software,2023-08-03 01:25:47,BRL,891000
+2707,Marketing Operations,North America,Salaries,2023-08-02 09:46:48,EUR,39469
+2477,Marketing Operations,South America,Professional Services,2023-08-02 11:28:20,GBP,697291
+3932,IT Infrastructure,North America,Salaries,2023-08-01 11:06:30,BRL,584639
+6456,Research & Development,South America,Software,2023-08-03 16:53:53,ARS,876140
+7050,IT Infrastructure,South America,Travel,2023-08-01 16:43:35,SGD,643514
+8607,Human Resources,South America,Supplies,2023-08-01 11:29:06,GBP,244855
+6013,Sales Operations,Asia Pacific,Supplies,2023-08-02 09:50:20,BRL,480999
+4771,Human Resources,North America,Salaries,2023-08-01 06:35:44,BRL,591753
+3703,IT Infrastructure,North America,Professional Services,2023-08-03 08:57:18,USD,973244
+4255,Sales Operations,Europe,Commissions,2023-08-02 07:16:39,JPY,134982
+1413,Sales Operations,Europe,Hardware,2023-08-03 09:57:27,EUR,286023
+5029,Sales Operations,Asia Pacific,Travel,2023-08-01 11:53:27,ARS,414743
+6437,Marketing Operations,Asia Pacific,Hardware,2023-08-02 11:24:30,GBP,635577
+7316,Marketing Operations,North America,Commissions,2023-08-01 06:37:03,USD,569643
+4025,IT Infrastructure,Europe,Commissions,2023-08-01 06:22:00,USD,40716
+7776,Research & Development,North America,Hardware,2023-08-03 19:35:07,JPY,910469
+3046,Marketing Operations,South America,Commissions,2023-08-01 01:25:20,EUR,944110
+3999,Research & Development,South America,Hardware,2023-08-01 00:00:33,USD,868028
+5528,Sales Operations,Asia Pacific,Commissions,2023-08-01 05:54:48,SGD,50114
+9462,Human Resources,South America,Benefits,2023-08-01 12:21:16,SGD,517840
+3270,Human Resources,South America,Commissions,2023-08-03 08:38:09,USD,840778
+2467,IT Infrastructure,South America,Advertising,2023-08-02 08:27:00,ARS,739255
+8649,Finance,Asia Pacific,Advertising,2023-08-02 09:50:28,ARS,367113
+2091,Marketing Operations,South America,Advertising,2023-08-03 08:37:49,USD,781283
+6301,Research & Development,South America,Professional Services,2023-08-03 04:27:21,BRL,438017
+8091,Research & Development,Europe,Professional Services,2023-08-03 07:18:56,JPY,512232
+9951,Sales Operations,North America,Supplies,2023-08-02 07:22:28,JPY,732024
+4390,Sales Operations,South America,Benefits,2023-08-01 16:17:39,JPY,847760
+2977,Human Resources,Europe,Software,2023-08-03 14:06:43,BRL,977214
+7099,Finance,South America,Hardware,2023-08-02 16:47:25,JPY,453432
+1128,Finance,South America,Travel,2023-08-03 03:00:18,EUR,148876
+1491,Research & Development,Europe,Salaries,2023-08-02 00:04:38,SGD,983314
+3576,Marketing Operations,South America,Hardware,2023-08-02 06:52:47,USD,338424
+1629,Human Resources,Asia Pacific,Commissions,2023-08-03 23:00:14,BRL,647395
+5585,Marketing Operations,North America,Benefits,2023-08-02 11:17:23,GBP,92585
+7901,Sales Operations,South America,Benefits,2023-08-02 07:04:16,GBP,596807
+2426,Research & Development,Europe,Software,2023-08-02 18:49:18,SGD,971452
+8651,Sales Operations,Europe,Supplies,2023-08-02 02:53:21,USD,324240
+4125,Marketing Operations,Asia Pacific,Travel,2023-08-01 20:05:10,SGD,419070
+5859,Marketing Operations,Asia Pacific,Professional Services,2023-08-03 09:45:21,BRL,260199
+5005,Finance,Europe,Commissions,2023-08-02 04:16:16,USD,254779
+4459,Finance,Europe,Commissions,2023-08-02 18:20:48,SGD,231825
+6121,Finance,Europe,Commissions,2023-08-03 20:55:03,JPY,661804
+4003,Finance,South America,Software,2023-08-01 15:55:02,SGD,251532
+2806,Finance,South America,Travel,2023-08-02 09:11:11,JPY,389465
+5462,Sales Operations,Europe,Hardware,2023-08-02 17:37:31,SGD,771029
+8841,Human Resources,South America,Advertising,2023-08-02 10:32:12,SGD,706352
+9126,Human Resources,North America,Commissions,2023-08-01 04:11:07,ARS,786158
+4326,Marketing Operations,North America,Supplies,2023-08-02 18:36:46,ARS,632768
+8497,Sales Operations,South America,Software,2023-08-02 21:13:15,JPY,802994
+3546,Finance,Asia Pacific,Professional Services,2023-08-02 13:18:01,ARS,301382
+4974,Sales Operations,Asia Pacific,Hardware,2023-08-03 02:04:27,GBP,321795
+7751,IT Infrastructure,North America,Benefits,2023-08-03 12:07:12,SGD,776421
+8272,Finance,North America,Advertising,2023-08-03 10:25:27,SGD,256812
+8033,Human Resources,South America,Advertising,2023-08-01 08:03:44,SGD,947427
+9128,Marketing Operations,Europe,Travel,2023-08-01 17:23:29,USD,597516
+7952,Marketing Operations,North America,Supplies,2023-08-02 19:52:16,EUR,345839
+7988,Sales Operations,Europe,Professional Services,2023-08-03 15:08:06,SGD,795430
+3711,Human Resources,Europe,Salaries,2023-08-02 15:59:25,ARS,339956
+8867,IT Infrastructure,South America,Software,2023-08-02 05:58:27,USD,97606
+8645,Sales Operations,South America,Professional Services,2023-08-01 01:20:00,JPY,638231
+8698,Finance,Europe,Professional Services,2023-08-02 10:18:40,USD,18299
+5499,Sales Operations,Asia Pacific,Supplies,2023-08-02 23:24:49,EUR,537866
+6784,Research & Development,Asia Pacific,Hardware,2023-08-02 15:17:16,EUR,889765
+3300,IT Infrastructure,South America,Supplies,2023-08-01 21:24:06,ARS,119432
+4573,Sales Operations,North America,Hardware,2023-08-03 01:24:58,JPY,159239
+8691,IT Infrastructure,Europe,Benefits,2023-08-02 02:00:29,ARS,764226
+3337,Marketing Operations,Asia Pacific,Software,2023-08-03 05:00:24,EUR,125423
+2375,Research & Development,South America,Travel,2023-08-01 01:57:02,ARS,354809
+7124,Finance,Europe,Salaries,2023-08-03 03:06:29,SGD,453793
+2604,IT Infrastructure,South America,Advertising,2023-08-03 20:59:17,EUR,581557
+4420,Marketing Operations,Asia Pacific,Professional Services,2023-08-03 23:36:55,ARS,443475
+6050,Sales Operations,Asia Pacific,Advertising,2023-08-03 18:19:11,GBP,74240
+8641,Sales Operations,North America,Software,2023-08-01 09:53:19,ARS,501909
+1339,Finance,Europe,Supplies,2023-08-01 13:45:32,ARS,685950
+9138,Marketing Operations,North America,Professional Services,2023-08-03 21:24:55,SGD,891326
+6406,Marketing Operations,North America,Travel,2023-08-01 21:36:45,GBP,971179
+9167,Human Resources,North America,Salaries,2023-08-03 08:19:04,JPY,690357
+2279,Research & Development,Europe,Software,2023-08-02 02:45:58,JPY,898650
+7653,Research & Development,Europe,Benefits,2023-08-03 17:38:45,GBP,516711
+4736,Finance,Asia Pacific,Professional Services,2023-08-03 02:41:49,ARS,509459
+5161,Marketing Operations,Europe,Software,2023-08-02 09:15:03,ARS,22989
+5700,IT Infrastructure,Europe,Advertising,2023-08-03 17:31:51,ARS,451709
+5502,Sales Operations,Europe,Salaries,2023-08-01 03:16:05,SGD,479666
+3733,Human Resources,Europe,Commissions,2023-08-02 10:37:28,GBP,40504
+4739,Finance,Europe,Commissions,2023-08-02 19:51:04,GBP,592835
+1866,Research & Development,Europe,Advertising,2023-08-02 22:10:11,BRL,6663
+1854,Sales Operations,South America,Advertising,2023-08-01 09:21:10,BRL,687337
+9345,Human Resources,Europe,Professional Services,2023-08-02 18:46:34,GBP,139737
+5382,Sales Operations,South America,Advertising,2023-08-02 11:09:58,ARS,394499
+6869,Sales Operations,Asia Pacific,Software,2023-08-03 15:46:19,USD,641691
+5747,Human Resources,South America,Software,2023-08-02 04:05:00,SGD,999856
+5977,Finance,North America,Travel,2023-08-01 16:56:54,GBP,918212
+2526,Finance,South America,Hardware,2023-08-02 05:50:14,ARS,109546
+9355,Marketing Operations,North America,Commissions,2023-08-03 12:37:44,BRL,62177
+9887,Marketing Operations,Asia Pacific,Commissions,2023-08-02 10:46:25,SGD,363212
+6535,Research & Development,South America,Benefits,2023-08-02 17:23:30,JPY,171236
+9702,Research & Development,South America,Commissions,2023-08-01 06:14:54,BRL,402409
+7281,Marketing Operations,North America,Software,2023-08-02 04:55:00,GBP,404669
+1316,IT Infrastructure,Europe,Salaries,2023-08-03 01:04:36,USD,71191
+9528,Sales Operations,North America,Commissions,2023-08-02 15:01:33,ARS,216503
+4728,Sales Operations,North America,Advertising,2023-08-02 12:59:07,JPY,174472
+7568,Human Resources,Asia Pacific,Software,2023-08-03 21:23:56,JPY,322342
+7246,Human Resources,South America,Travel,2023-08-03 02:27:07,GBP,541970
+6690,Sales Operations,Asia Pacific,Professional Services,2023-08-02 12:45:09,JPY,593327
+1635,Finance,Asia Pacific,Advertising,2023-08-03 21:12:09,JPY,869888
+2362,Finance,North America,Advertising,2023-08-02 06:33:26,GBP,74520
+4253,Research & Development,South America,Hardware,2023-08-03 14:37:32,ARS,927514
+1627,Finance,South America,Salaries,2023-08-03 00:22:38,SGD,714261
+3169,IT Infrastructure,Europe,Advertising,2023-08-03 20:56:41,SGD,337811
+7729,Sales Operations,Europe,Supplies,2023-08-01 07:25:32,ARS,254672
+7599,Human Resources,South America,Benefits,2023-08-03 12:35:15,EUR,37774
+1786,Finance,Europe,Advertising,2023-08-03 11:09:16,GBP,523349
+3516,Marketing Operations,South America,Salaries,2023-08-01 11:07:01,GBP,959221
+3885,Marketing Operations,North America,Travel,2023-08-02 07:11:40,SGD,567837
+4256,Finance,North America,Benefits,2023-08-02 03:07:32,USD,567976
+3617,Marketing Operations,North America,Supplies,2023-08-02 21:05:27,EUR,922929
+6595,Research & Development,Europe,Professional Services,2023-08-01 03:27:00,ARS,771444
+4323,IT Infrastructure,Asia Pacific,Professional Services,2023-08-03 01:48:00,ARS,874151
+5030,Research & Development,North America,Professional Services,2023-08-02 00:05:49,ARS,131201
+8545,Finance,Europe,Travel,2023-08-01 21:43:43,BRL,299515
+9029,Finance,South America,Advertising,2023-08-01 03:29:16,GBP,649836
+6525,Research & Development,Asia Pacific,Supplies,2023-08-03 18:19:18,JPY,793373
+4746,Marketing Operations,South America,Salaries,2023-08-01 10:19:33,JPY,712458
+1463,Research & Development,North America,Hardware,2023-08-03 00:58:07,USD,401168
+5943,Human Resources,South America,Commissions,2023-08-03 05:01:34,USD,647793
+1123,Finance,Asia Pacific,Travel,2023-08-01 17:10:57,USD,572044
+6146,Sales Operations,South America,Travel,2023-08-03 10:58:21,JPY,644853
+7414,Human Resources,Asia Pacific,Hardware,2023-08-02 14:15:18,USD,463462
+2619,Human Resources,Europe,Commissions,2023-08-02 20:33:52,JPY,754997
+6187,Marketing Operations,North America,Hardware,2023-08-01 16:31:50,BRL,226621
+9626,Human Resources,Europe,Professional Services,2023-08-02 16:35:08,ARS,456540
+1947,IT Infrastructure,Asia Pacific,Hardware,2023-08-03 04:41:38,JPY,181138
+8903,Research & Development,Asia Pacific,Salaries,2023-08-01 07:56:23,JPY,355717
+2034,Research & Development,Europe,Professional Services,2023-08-01 09:59:58,EUR,423414
+1050,Human Resources,Asia Pacific,Supplies,2023-08-01 17:13:46,GBP,417986
+5549,Sales Operations,North America,Salaries,2023-08-01 22:16:56,BRL,69035
+5844,Sales Operations,South America,Benefits,2023-08-01 23:32:17,EUR,980127
+8035,Sales Operations,Asia Pacific,Salaries,2023-08-02 17:10:35,GBP,648222
+6652,Marketing Operations,Europe,Advertising,2023-08-03 22:47:51,GBP,356072
+4391,IT Infrastructure,Asia Pacific,Travel,2023-08-03 00:17:48,ARS,284452
+8759,Research & Development,South America,Travel,2023-08-01 23:34:39,JPY,804077
+8372,Finance,South America,Travel,2023-08-01 11:54:27,ARS,34333
+3719,Sales Operations,Europe,Advertising,2023-08-01 02:22:39,ARS,561653
+3733,Research & Development,Asia Pacific,Salaries,2023-08-03 05:28:20,BRL,211166
+7426,Finance,Asia Pacific,Commissions,2023-08-01 20:54:09,USD,4281
+7335,Marketing Operations,North America,Travel,2023-08-01 21:23:57,GBP,40377
+6750,Finance,South America,Hardware,2023-08-01 08:41:08,EUR,802267
+2213,Marketing Operations,Asia Pacific,Hardware,2023-08-02 15:24:25,JPY,650924
+6658,Finance,North America,Professional Services,2023-08-01 14:42:15,BRL,448019
+1965,Sales Operations,South America,Software,2023-08-03 16:38:40,EUR,69325
+4273,Sales Operations,Asia Pacific,Salaries,2023-08-02 05:42:05,BRL,529332
+4882,Marketing Operations,Europe,Benefits,2023-08-01 11:49:26,BRL,879304
+5510,Finance,Asia Pacific,Commissions,2023-08-01 16:08:54,GBP,649272
+3538,Human Resources,South America,Advertising,2023-08-01 14:04:17,GBP,10754
+5829,IT Infrastructure,South America,Advertising,2023-08-03 01:15:35,USD,976104
+1371,Finance,South America,Travel,2023-08-03 02:21:55,GBP,140711
+4177,Human Resources,North America,Advertising,2023-08-01 14:56:23,BRL,402374
+7205,Human Resources,Asia Pacific,Benefits,2023-08-03 03:27:50,EUR,27529
+9438,Sales Operations,Asia Pacific,Professional Services,2023-08-01 08:37:38,SGD,166197
+7426,Research & Development,North America,Travel,2023-08-02 14:43:27,EUR,496937
+3947,Finance,Asia Pacific,Supplies,2023-08-01 23:36:30,GBP,558124
+7066,Marketing Operations,North America,Professional Services,2023-08-03 20:10:45,USD,711994
+5784,Marketing Operations,Asia Pacific,Hardware,2023-08-02 20:48:23,JPY,862238
+5805,Research & Development,South America,Software,2023-08-02 10:48:36,SGD,734914
+4772,IT Infrastructure,Europe,Hardware,2023-08-03 09:18:22,JPY,235894
+9195,Marketing Operations,North America,Software,2023-08-02 14:58:37,BRL,882465
+8419,Human Resources,Europe,Professional Services,2023-08-03 22:07:15,GBP,29586
+4968,Research & Development,South America,Commissions,2023-08-03 00:23:03,ARS,113566
+4797,Finance,North America,Commissions,2023-08-03 15:32:53,USD,457279
+5357,Sales Operations,Europe,Travel,2023-08-01 11:52:35,SGD,649288
+8025,Sales Operations,South America,Commissions,2023-08-01 01:59:46,ARS,579323
+3780,Sales Operations,Asia Pacific,Commissions,2023-08-01 22:22:04,EUR,739457
+5115,Sales Operations,Asia Pacific,Supplies,2023-08-02 14:39:12,ARS,238198
+9256,Sales Operations,South America,Professional Services,2023-08-03 04:27:38,USD,883477
+8835,IT Infrastructure,Asia Pacific,Travel,2023-08-02 06:38:04,ARS,437387
+4383,Marketing Operations,Asia Pacific,Professional Services,2023-08-02 12:45:41,JPY,769056
+7462,IT Infrastructure,North America,Benefits,2023-08-01 03:34:03,ARS,193738
+8970,IT Infrastructure,Asia Pacific,Salaries,2023-08-02 05:12:06,USD,884249
+3004,Research & Development,Europe,Supplies,2023-08-03 13:41:06,GBP,30112
+7758,Human Resources,Asia Pacific,Commissions,2023-08-03 03:40:44,USD,369138
+8861,Sales Operations,Europe,Commissions,2023-08-03 02:12:01,ARS,155658
+5508,IT Infrastructure,Asia Pacific,Hardware,2023-08-03 11:25:33,USD,903496
+3974,Sales Operations,Europe,Travel,2023-08-02 09:39:50,BRL,589256
+7320,Marketing Operations,Asia Pacific,Benefits,2023-08-01 03:47:02,SGD,822760
+5797,IT Infrastructure,Europe,Supplies,2023-08-03 20:24:23,ARS,927055
+6426,Marketing Operations,Europe,Benefits,2023-08-03 02:31:31,USD,531720
+1628,IT Infrastructure,Europe,Salaries,2023-08-01 07:35:51,EUR,24752
+8743,IT Infrastructure,South America,Salaries,2023-08-03 00:40:37,BRL,712849
+2954,Marketing Operations,Europe,Commissions,2023-08-01 21:03:31,SGD,518305
+9533,Sales Operations,Europe,Professional Services,2023-08-01 09:16:56,USD,344509
+7027,Research & Development,North America,Benefits,2023-08-01 16:25:17,GBP,711395
+4320,Research & Development,North America,Benefits,2023-08-01 16:09:07,GBP,68347
+4501,Human Resources,North America,Salaries,2023-08-01 16:40:00,USD,711366
+1162,Sales Operations,Asia Pacific,Commissions,2023-08-02 20:26:01,ARS,249087
+7464,Marketing Operations,North America,Professional Services,2023-08-02 16:05:14,SGD,540197
+2918,Marketing Operations,Asia Pacific,Hardware,2023-08-03 11:02:31,USD,796851
+4690,Research & Development,North America,Travel,2023-08-02 11:17:22,USD,438070
+2879,Finance,North America,Software,2023-08-01 09:21:04,BRL,646785
+5635,Marketing Operations,South America,Salaries,2023-08-02 16:26:18,EUR,20747
+7535,Finance,Europe,Benefits,2023-08-02 19:00:37,GBP,430422
+5958,Human Resources,North America,Salaries,2023-08-02 10:15:12,JPY,160066
+8971,Research & Development,Asia Pacific,Advertising,2023-08-03 01:30:09,BRL,322056
+3812,Research & Development,North America,Professional Services,2023-08-03 07:38:07,JPY,219741
+2367,IT Infrastructure,Asia Pacific,Benefits,2023-08-02 18:37:33,ARS,940839
+2565,Finance,Europe,Travel,2023-08-01 07:20:00,SGD,491765
+5947,Finance,Asia Pacific,Advertising,2023-08-02 12:16:02,USD,162494
+1128,Human Resources,Asia Pacific,Travel,2023-08-01 10:32:29,JPY,867711
+3068,Sales Operations,North America,Salaries,2023-08-01 13:26:27,JPY,67828
+8161,Research & Development,North America,Hardware,2023-08-02 09:36:26,EUR,642818
+1885,Sales Operations,North America,Hardware,2023-08-03 16:33:42,USD,960280
+2860,Human Resources,North America,Supplies,2023-08-03 00:53:25,EUR,765775
+7086,Finance,Asia Pacific,Salaries,2023-08-01 12:36:44,SGD,495900
